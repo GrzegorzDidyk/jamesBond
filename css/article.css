@@ -1,0 +1,13 @@
+.article {
+    margin: 10px;
+}
+
+.article__paragraph {
+    text-align: justify;
+}
+
+.article__picture {
+    display: block;
+    margin: 100px auto;
+    box-shadow: 3px 7px 15px 6px rgba(0, 0, 0, 0.6);
+}

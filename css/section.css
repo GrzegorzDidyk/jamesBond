@@ -1,0 +1,35 @@
+.sectionActotrs {
+    margin: 40px 10px;
+}
+
+.sectionActors__paragraph {
+    text-align: justify;
+}
+
+.sectionActors__paragraphName {
+    display: none;
+}
+
+.sectionActors__paragraphName--on {
+    display: block;
+    font-size: 25px;
+    color: rgb(131, 67, 67);
+    font-weight: 700;
+    text-align: center;
+}
+
+.sectionActors__picture {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+    height: 350px;
+}
+.sectionActors__button {
+    margin: 20px auto;
+    display: block;
+    font-size: 25px;
+    background-color: #000;
+    color: white;
+    padding: 12px;
+    border-radius: 50px;
+}

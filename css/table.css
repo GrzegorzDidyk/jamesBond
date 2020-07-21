@@ -1,0 +1,40 @@
+.table {
+    margin: 40px 10px;
+   
+   
+}
+
+.table__container{
+    overflow-x: auto;
+}
+
+.table__films {
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+   
+}
+
+.table__caption {
+    caption-side: bottom;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.table__tableCell {
+    border: 1px solid #aaa;
+    padding: 15px;
+    text-align: center;
+    background-color: white;
+    vertical-align: middle;
+ 
+}
+
+.table__tableCell:hover {
+    background-color: #999;
+}
+.table__tableCell--tableHeader {
+    background-color: black;
+    color: white;
+}
