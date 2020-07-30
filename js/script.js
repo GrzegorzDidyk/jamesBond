@@ -37,11 +37,11 @@
                 actorsGallery.innerHTML = '<img class="sectionActors__picture" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Daniel_Craig_-_Film_Premiere_%22Spectre%22_007_-_on_the_Red_Carpet_in_Berlin_%2822387409720%29_%28cropped%29.jpg">';
                 break;
             case "Koniec":
-                actorsButton.innerText = "Pierwszy aktor";
+                actorsButton.innerText = "Pierwszy Aktor";
                 actorsParagraph.innerText = "Sean Connery – 1962–1967, 1971 (6 filmów)";
                 actorsGallery.innerHTML = '<img class="sectionActors__picture" src="https://a.allegroimg.com/s512/038695/ac141de940d88b3af2ce5815f99e/James-Bond-Bond-50-Blu-ray-Tytul-James-Bond-Bond-50-Blu-ray">';
                 actorsParagraph.classList.remove("sectionActors__paragraphName--on");
-                break
+                break;
         };
     };
 
